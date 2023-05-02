@@ -1,0 +1,19 @@
+{
+	"name": "svelte-deploy",
+	"course": "Web Application",
+	"title": "Teacher Room App with Svelte",
+	"order": 3,
+	"topics": [
+		"nodejs",
+		"svelte",
+		"js",
+		"html",
+		"css"
+	],
+	"image": "svelte",
+	"command": "npm run test",
+	"totalTestCase": 2,
+	"metadata": {
+		"type": "exercise"
+	}
+}
